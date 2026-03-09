@@ -156,7 +156,7 @@ let PREFIX = process.env.PREFIX || ".";
 const BOT_NAME = process.env.BOT_NAME || "ʀᴏᴀɴ ᴍᴅ ᴠ3";
 const OWNER_NAME = process.env.OWNER_NAME || "ᴍʀ ʀᴏᴀɴ";
 
-const MENU_IMAGE_URL = process.env.MENU_IMAGE_URL || "https://files.catbox.moe/6oriof.jpg";
+const MENU_IMAGE_URL = process.env.MENU_IMAGE_URL || "https://d.uguu.se/COLSOBDn.jpg";
 const REPO_LINK = process.env.REPO_LINK || "https://github.com/dev-mrroan";
 
 // Auto-status configuration - modifiable via commands
